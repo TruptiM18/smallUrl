@@ -14,8 +14,8 @@ POST https://kind-den.glitch.me/api/shorturl/new - body (urlencoded) :  url=http
 
 #### Usage:
 
-https://kind-den.glitch.me/api/shorturl/3
+https://kind-den.glitch.me/api/shorturl/cRjiEw
 
 #### Will redirect to:
 
-https://www.freecodecamp.org/forum/
+https://www.nodejs.org
