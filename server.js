@@ -196,7 +196,7 @@ app.get('/api/shorturl/:shortUrl',function(req,res){
   });
 });
 
-/** start server **/
+/** Start server **/
 app.listen(port, function () {
   console.log('Node.js listening ...');
 });
